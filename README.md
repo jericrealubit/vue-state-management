@@ -1,4 +1,4 @@
-# vuex-tuts
+# Vue State Management
 
 ## Project setup
 ```
